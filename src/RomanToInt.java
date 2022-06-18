@@ -17,6 +17,7 @@ public class RomanToInt {
         System.out.println("CMXL: " + r2i.romanToInt("CMXL"));
         System.out.println("CMXLIII: " + r2i.romanToInt("CMXLIII"));
         System.out.println("MCMDIV: " + r2i.romanToInt("MCMDIV"));
+        System.out.println("MCMLXXIV: " + r2i.romanToInt("MCMLXXIV"));
     }
 
     public RomanToInt() {
